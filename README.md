@@ -15,8 +15,8 @@
 
 
 <h3>Запуск проекта</h3>
-
-   git@github.com:abdula-programmer/Japanese_kitchen.git
-   git init
-   git start
+  
+    git@github.com:abdula-programmer/Japanese_kitchen.git
+    git init
+    git start
 
